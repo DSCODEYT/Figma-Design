@@ -1,4 +1,4 @@
-# App Nav Bar With Smart Animation 🍔
+# App Nav Bar With Smart Animation
 
 <h4>You can download the Navigation bar figma design file here!</h4>
 
